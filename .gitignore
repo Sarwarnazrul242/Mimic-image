@@ -1,0 +1,7 @@
+.venv
+
+_pycache
+
+physio.h5
+
+main_model.pth
